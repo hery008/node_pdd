@@ -1,0 +1,1 @@
+这是基于vue2.0+nodejs+mint-ui模仿做的拼多多商城
