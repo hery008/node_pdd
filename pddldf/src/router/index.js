@@ -10,7 +10,7 @@ import Me from "../pages/Me/Me"
 import Chat from "../pages/Chat/Chat"
 
 //引入二级路由路径
-import Hot from '../pages/Home/Children/Hot'
+import Hot from '../pages/Home/Children/Hot/Hot.vue'
 import Box from './../pages/Home/Children/Box'
 import Dress from './../pages/Home/Children/Dress'
 import Ele from './../pages/Home/Children/Ele'
